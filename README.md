@@ -17,7 +17,7 @@ See hover effects on the “Add to Cart” button
 
 🔗 Links
 
-Solution URL: Add your solution link here
+Solution URL: (https://github.com/Mano6383/product-preview-card)
 
 Live Site URL: Add your live site link here
 
@@ -74,4 +74,4 @@ Frontend Mentor Community – Great reference for clean solutions
 
 Frontend Mentor: @mano6383
 
-GitHub: Add your GitHub link here
+GitHub: (https://github.com/Mano6383)
