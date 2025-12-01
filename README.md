@@ -19,7 +19,7 @@ See hover effects on the “Add to Cart” button
 
 Solution URL: (https://github.com/Mano6383/product-preview-card)
 
-Live Site URL: Add your live site link here
+Live Site URL: (https://elaborate-malasada-86cdfd.netlify.app/)
 
 🛠 My Process
 🔧 Built With
